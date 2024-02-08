@@ -1,0 +1,143 @@
+** Datenschutzerklaerung - EWvT Navigator **
+
+Praeambel
+Mit der folgenden Datenschutzerklaerung moechten wir Sie darueber aufklaeren, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten.
+
+Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
+
+Stand: 6. Januar 2024
+
+
+** Uebersicht der Verarbeitungen **
+Die nachfolgende uebersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
+
+** Arten der verarbeiteten Daten **
+- Kontaktdaten.
+- Inhaltsdaten.
+- Nutzungsdaten.
+- Meta-, Kommunikations- und Verfahrensdaten.
+
+** Kategorien betroffener Personen **
+- Kommunikationspartner.
+- Nutzer.
+
+
+**Zwecke der Verarbeitung**
+- Kontaktanfragen und Kommunikation.
+- Sicherheitsmassnahmen.
+- Verwaltung und Beantwortung von Anfragen.
+- Feedback.
+- Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+- Informationstechnische Infrastruktur.
+
+
+** Massgebliche Rechtsgrundlagen **
+Massgebliche Rechtsgrundlagen nach der DSGVO: Im Folgenden erhalten Sie eine uebersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten koennen. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen massgeblich sein, teilen wir Ihnen diese in der Datenschutzerklaerung mit.
+
+- Vertragserfuellung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO) - Die Verarbeitung ist fuer die Erfuellung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchfuehrung vorvertraglicher Massnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen.
+
+- Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO) - Die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, ueberwiegen.
+
+Nationale Datenschutzregelungen in Deutschland: Zusaetzlich zu den Datenschutzregelungen der DSGVO gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehoert insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthaelt insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Loeschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung fuer andere Zwecke und zur uebermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschliesslich Profiling. Ferner koennen Landesdatenschutzgesetze der einzelnen Bundeslaender zur Anwendung gelangen.
+
+Hinweis auf Geltung DSGVO und Schweizer DSG: Diese Datenschutzhinweise dienen sowohl der Informationserteilung nach dem schweizerischen Bundesgesetz ueber den Datenschutz (Schweizer DSG) als auch nach der Datenschutzgrundverordnung (DSGVO). Aus diesem Grund bitten wir Sie zu beachten, dass aufgrund der breiteren raeumlichen Anwendung und Verstaendlichkeit die Begriffe der DSGVO verwendet werden. Insbesondere statt der im Schweizer DSG verwendeten Begriffe „Bearbeitung" von „Personendaten", "ueberwiegendes Interesse" und "besonders schuetzenswerte Personendaten" werden die in der DSGVO verwendeten Begriffe „Verarbeitung" von „personenbezogenen Daten" sowie "berechtigtes Interesse" und "besondere Kategorien von Daten" verwendet. Die gesetzliche Bedeutung der Begriffe wird jedoch im Rahmen der Geltung des Schweizer DSG weiterhin nach dem Schweizer DSG bestimmt.
+
+
+** Sicherheitsmassnahmen **
+Wir treffen nach Massgabe der gesetzlichen Vorgaben unter Beruecksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstaende und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmasses der Bedrohung der Rechte und Freiheiten natuerlicher Personen geeignete technische und organisatorische Massnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewaehrleisten.
+
+Zu den Massnahmen gehoeren insbesondere die Sicherung der Vertraulichkeit, Integritaet und Verfuegbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfuegbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Loeschung von Daten und Reaktionen auf die Gefaehrdung der Daten gewaehrleisten. Ferner beruecksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
+
+
+** Loeschung von Daten**
+Die von uns verarbeiteten Daten werden nach Massgabe der gesetzlichen Vorgaben geloescht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z. B. wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie fuer den Zweck nicht erforderlich sind). Sofern die Daten nicht geloescht werden, weil sie fuer andere und gesetzlich zulaessige Zwecke erforderlich sind, wird deren Verarbeitung auf diese Zwecke beschraenkt. D. h., die Daten werden gesperrt und nicht fuer andere Zwecke verarbeitet. Das gilt z. B. fuer Daten, die aus handels- oder steuerrechtlichen Gruenden aufbewahrt werden muessen oder deren Speicherung zur Geltendmachung, Ausuebung oder Verteidigung von Rechtsanspruechen oder zum Schutz der Rechte einer anderen natuerlichen oder juristischen Person erforderlich ist. Unsere Datenschutzhinweise koennen ferner weitere Angaben zu der Aufbewahrung und Loeschung von Daten beinhalten, die fuer die jeweiligen Verarbeitungen vorrangig gelten.
+
+** Rechte der betroffenen Personen **
+Rechte der betroffenen Personen aus der DSGVO: Ihnen stehen als Betroffene nach der DSGVO verschiedene Rechte zu, die sich insbesondere aus Art. 15 bis 21 DSGVO ergeben:
+
+- Widerspruchsrecht: Sie haben das Recht, aus Gruenden, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch fuer ein auf diese Bestimmungen gestuetztes Profiling. Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch fuer das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
+
+- Widerrufsrecht bei Einwilligungen: Sie haben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
+
+- Auskunftsrecht: Sie haben das Recht, eine Bestaetigung darueber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft ueber diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
+
+- Recht auf Berichtigung: Sie haben entsprechend den gesetzlichen Vorgaben das Recht, die Vervollstaendigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
+
+- Recht auf Loeschung und Einschraenkung der Verarbeitung: Sie haben nach Massgabe der gesetzlichen Vorgaben das Recht, zu verlangen, dass Sie betreffende Daten unverzueglich geloescht werden, bzw. alternativ nach Massgabe der gesetzlichen Vorgaben eine Einschraenkung der Verarbeitung der Daten zu verlangen.
+
+- Recht auf Datenuebertragbarkeit: Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Massgabe der gesetzlichen Vorgaben in einem strukturierten, gaengigen und maschinenlesbaren Format zu erhalten oder deren uebermittlung an einen anderen Verantwortlichen zu fordern.
+
+- Beschwerde bei Aufsichtsbehoerde: Sie haben unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehoerde, insbesondere in dem Mitgliedstaat ihres gewoehnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmasslichen Verstosses, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die Vorgaben der DSGVO verstoesst.
+
+
+** Bereitstellung des Onlineangebotes und Webhosting **
+Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfuegung stellen zu koennen. Zu diesem Zweck verarbeiten wir die IP-Adresse des Nutzers, die notwendig ist, um die Inhalte und Funktionen unserer Online-Dienste an den Browser oder das Endgeraet der Nutzer zu uebermitteln.
+
+- Verarbeitete Datenarten: Nutzungsdaten (z. B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus); Inhaltsdaten (z. .B. Eingaben in Onlineformularen).
+
+- Betroffene Personen: Nutzer (z. .B. Webseitenbesucher, Nutzer von Onlinediensten).
+
+- Zwecke der Verarbeitung: Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen und technischen Geraeten (Computer, Server etc.).). Sicherheitsmassnahmen.
+
+- Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+
+** Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten: **
+
+- Bereitstellung Onlineangebot auf gemietetem Speicherplatz: Fuer die Bereitstellung unseres Onlineangebotes nutzen wir Speicherplatz, Rechenkapazitaet und Software, die wir von einem entsprechenden Serveranbieter (auch "Webhoster" genannt) mieten oder anderweitig beziehen; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+- Erhebung von Zugriffsdaten und Logfiles: Der Zugriff auf unser Onlineangebot wird in Form von so genannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles koennen die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, uebertragene Datenmengen, Meldung ueber erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehoeren. Die Serverlogfiles koennen zum einen zu Zwecken der Sicherheit eingesetzt werden, z. B., um eine ueberlastung der Server zu vermeiden (insbesondere im Fall von missbraeuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilitaet sicherzustellen; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Loeschung von Daten: Logfile-Informationen werden fuer die Dauer von maximal 30 Tagen gespeichert und danach geloescht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgueltigen Klaerung des jeweiligen Vorfalls von der Loeschung ausgenommen.
+
+- E-Mail-Versand und -Hosting: Die von uns in Anspruch genommenen Webhosting-Leistungen umfassen ebenfalls den Versand, den Empfang sowie die Speicherung von E-Mails. Zu diesen Zwecken werden die Adressen der Empfaenger sowie Absender als auch weitere Informationen betreffend den E-Mailversand (z. B. die beteiligten Provider) sowie die Inhalte der jeweiligen E-Mails verarbeitet. Die vorgenannten Daten koennen ferner zu Zwecken der Erkennung von SPAM verarbeitet werden. Wir bitten darum, zu beachten, dass E-Mails im Internet grundsaetzlich nicht verschluesselt versendet werden. Im Regelfall werden E-Mails zwar auf dem Transportweg verschluesselt, aber (sofern kein sogenanntes Ende-zu-Ende-Verschluesselungsverfahren eingesetzt wird) nicht auf den Servern, von denen sie abgesendet und empfangen werden. Wir koennen daher fuer den uebertragungsweg der E-Mails zwischen dem Absender und dem Empfang auf unserem Server keine Verantwortung uebernehmen; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+
+** Kontakt- und Anfragenverwaltung **
+Bei der Kontaktaufnahme mit uns (z. B. per Post, Kontaktformular, E-Mail, Telefon oder via soziale Medien) sowie im Rahmen bestehender Nutzer- und Geschaeftsbeziehungen werden die Angaben der anfragenden Personen verarbeitet soweit dies zur Beantwortung der Kontaktanfragen und etwaiger angefragter Massnahmen erforderlich ist.
+
+- Verarbeitete Datenarten: Kontaktdaten (z. B. E-Mail, Telefonnummern); Inhaltsdaten (z. B. Eingaben in Onlineformularen); Nutzungsdaten (z. B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. .B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus).
+
+- Betroffene Personen: Kommunikationspartner.
+
+- Zwecke der Verarbeitung: Kontaktanfragen und Kommunikation; Verwaltung und Beantwortung von Anfragen; Feedback (z. B. Sammeln von Feedback via Online-Formular). Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+
+- Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Vertragserfuellung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+
+
+** Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten: **
+Kontaktformular: Wenn Nutzer ueber unser Kontaktformular, E-Mail oder andere Kommunikationswege mit uns in Kontakt treten, verarbeiten wir die uns in diesem Zusammenhang mitgeteilten Daten zur Bearbeitung des mitgeteilten Anliegens; Rechtsgrundlagen: Vertragserfuellung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+
+** Plugins und eingebettete Funktionen sowie Inhalte **
+Wir binden in unser Onlineangebot Funktions- und Inhaltselemente ein, die von den Servern ihrer jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter") bezogen werden. Dabei kann es sich zum Beispiel um Grafiken, Videos oder Stadtplaene handeln (nachfolgend einheitlich bezeichnet als "Inhalte").
+
+Die Einbindung setzt immer voraus, dass die Drittanbieter dieser Inhalte die IP-Adresse der Nutzer verarbeiten, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden koennten. Die IP-Adresse ist damit fuer die Darstellung dieser Inhalte oder Funktionen erforderlich. Wir bemuehen uns, nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter koennen ferner sogenannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) fuer statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" koennen Informationen, wie der Besucherverkehr auf den Seiten dieser Webseite, ausgewertet werden. Die pseudonymen Informationen koennen ferner in Cookies auf dem Geraet der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und zum Betriebssystem, zu verweisenden Webseiten, zur Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten als auch mit solchen Informationen aus anderen Quellen verbunden werden.
+
+- Verarbeitete Datenarten: Nutzungsdaten (z. B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. .B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus).
+
+- Betroffene Personen: Nutzer (z. .B. Webseitenbesucher, Nutzer von Onlinediensten).
+
+- Zwecke der Verarbeitung: Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+
+- Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+
+** Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten: **
+- Google Fonts (Bezug vom Google Server): Bezug von Schriften (und Symbolen) zum Zwecke einer technisch sicheren, wartungsfreien und effizienten Nutzung von Schriften und Symbolen im Hinblick auf Aktualitaet und Ladezeiten, deren einheitliche Darstellung und Beruecksichtigung moeglicher lizenzrechtlicher Beschraenkungen. Dem Anbieter der Schriftarten wird die IP-Adresse des Nutzers mitgeteilt, damit die Schriftarten im Browser des Nutzers zur Verfuegung gestellt werden koennen. Darueber hinaus werden technische Daten (Spracheinstellungen, Bildschirmaufloesung, Betriebssystem, verwendete Hardware) uebermittelt, die fuer die Bereitstellung der Schriften in Abhaengigkeit von den verwendeten Geraeten und der technischen Umgebung notwendig sind. Diese Daten koennen auf einem Server des Anbieters der Schriftarten in den USA verarbeitet werden - Beim Besuch unseres Onlineangebotes senden die Browser der Nutzer ihre Browser HTTP-Anfragen an die Google Fonts Web API (d. h. eine Softwareschnittstelle fuer den Abruf der Schriftarten). Die Google Fonts Web API stellt den Nutzern die Cascading Style Sheets (CSS) von Google Fonts und danach die in der CCS angegebenen Schriftarten zur Verfuegung. Zu diesen HTTP-Anfragen gehoeren (1) die vom jeweiligen Nutzer fuer den Zugriff auf das Internet verwendete IP-Adresse, (2) die angeforderte URL auf dem Google-Server und (3) die HTTP-Header, einschliesslich des User-Agents, der die Browser- und Betriebssystemversionen der Websitebesucher beschreibt, sowie die Verweis-URL (d. h. die Webseite, auf der die Google-Schriftart angezeigt werden soll). IP-Adressen werden weder auf Google-Servern protokolliert noch gespeichert und sie werden nicht analysiert. Die Google Fonts Web API protokolliert Details der HTTP-Anfragen (angeforderte URL, User-Agent und Verweis-URL). Der Zugriff auf diese Daten ist eingeschraenkt und streng kontrolliert. Die angeforderte URL identifiziert die Schriftfamilien, fuer die der Nutzer Schriftarten laden moechte. Diese Daten werden protokolliert, damit Google bestimmen kann, wie oft eine bestimmte Schriftfamilie angefordert wird. Bei der Google Fonts Web API muss der User-Agent die Schriftart anpassen, die fuer den jeweiligen Browsertyp generiert wird. Der User-Agent wird in erster Linie zum Debugging protokolliert und verwendet, um aggregierte Nutzungsstatistiken zu generieren, mit denen die Beliebtheit von Schriftfamilien gemessen wird. Diese zusammengefassten Nutzungsstatistiken werden auf der Seite „Analysen" von Google Fonts veroeffentlicht. Schliesslich wird die Verweis-URL protokolliert, sodass die Daten fuer die Wartung der Produktion verwendet und ein aggregierter Bericht zu den Top-Integrationen basierend auf der Anzahl der Schriftartenanfragen generiert werden kann. Google verwendet laut eigener Auskunft keine der von Google Fonts erfassten Informationen, um Profile von Endnutzern zu erstellen oder zielgerichtete Anzeigen zu schalten; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: https://fonts.google.com/; Datenschutzerklaerung: https://policies.google.com/privacy; Grundlage Drittlanduebermittlung: EU-US Data Privacy Framework (DPF). Weitere Informationen: https://developers.google.com/fonts/faq/privacy?hl=de.
+
+- OpenStreetMap: Wir binden die Landkarten des Dienstes "OpenStreetMap" ein, die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. Die Daten der Nutzer werden durch OpenStreetMap ausschliesslich zu Zwecken der Darstellung der Kartenfunktionen und zur Zwischenspeicherung der gewaehlten Einstellungen verwendet. Zu diesen Daten koennen insbesondere IP-Adressen und Standortdaten der Nutzer gehoeren, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Endgeraete oder Browser vollzogen) erhoben werden; Dienstanbieter: OpenStreetMap Foundation (OSMF); Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: https://www.openstreetmap.de. Datenschutzerklaerung: https://osmfoundation.org/wiki/Privacy_Policy.
+
+
+** Aenderung und Aktualisierung der Datenschutzerklaerung **
+Wir bitten Sie, sich regelmaessig ueber den Inhalt unserer Datenschutzerklaerung zu informieren. Wir passen die Datenschutzerklaerung an, sobald die aenderungen der von uns durchgefuehrten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die aenderungen eine Mitwirkungshandlung Ihrerseits (z. B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
+
+Sofern wir in dieser Datenschutzerklaerung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich ueber die Zeit aendern koennen und bitten die Angaben vor Kontaktaufnahme zu pruefen.
+
+
+** Begriffsdefinitionen **
+In diesem Abschnitt erhalten Sie eine uebersicht ueber die in dieser Datenschutzerklaerung verwendeten Begrifflichkeiten. Soweit die Begrifflichkeiten gesetzlich definiert sind, gelten deren gesetzliche Definitionen. Die nachfolgenden Erlaeuterungen sollen dagegen vor allem dem Verstaendnis dienen.
+
+- Personenbezogene Daten: "Personenbezogene Daten" sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natuerliche Person (im Folgenden "betroffene Person") beziehen; als identifizierbar wird eine natuerliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z. B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identitaet dieser natuerlichen Person sind.
+
+- Verantwortlicher: Als "Verantwortlicher" wird die natuerliche oder juristische Person, Behoerde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen ueber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
+
+- Verarbeitung: "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgefuehrte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das uebermitteln oder das Loeschen.

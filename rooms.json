@@ -1,0 +1,2361 @@
+[
+
+{
+	"room":"MSA",
+	"roomclass":"Mensa / Aula",
+	"classcode":"food",
+	"position":"EG, Neubau, Mensa",
+	"positioncode":"G",
+	"accesscode":"1",
+	"tags":"essen, mensa, mittag, essensraum, aula, rede",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"SNK",
+	"roomclass":"Snackautomat",
+	"classcode":"food",
+	"position":"EG, Altbau, Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"1",
+	"tags":"essen, snack, automat",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+
+{
+	"room":"005",
+	"roomclass":"Bibliothek",
+	"classcode":"bibo",
+	"position":"EG, Neubau, Südflügel",
+	"positioncode":"F",
+	"accesscode":"2b",
+	"tags":"bibo",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"006",
+	"roomclass":"Konferenzraum",
+	"classcode":"konferenz",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"3",
+
+	"tags":"konferenz, meeting, besprechung, lehrer",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"007",
+	"roomclass":"Konferenzraum",
+	"classcode":"konferenz",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"3",
+
+	"tags":"konferenz, meeting, besprechung, lehrer",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"009",
+	"roomclass":"Fitnessraum",
+	"classcode":"sport",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"2b",
+	"info":"Im Sekreteriat umd Zugang bitten",
+	"tags":"sport, fitness, fitnes, five, geräte, gerate, geraete, sport, workout",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"010",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"011",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"012",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"013",
+	"roomclass":"Technikraum",
+	"classcode":"intern",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"3",
+
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"014",
+	"roomclass":"Behindertengerechtes WC",
+	"classcode":"accessiblewc",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"wc, rollstuhl, behinderten, behindert, handycap, rollstuhl wc",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"015",
+	"roomclass":"WC Jungen",
+	"classcode":"wcm",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"016",
+	"roomclass":"WC Jungen",
+	"classcode":"wcmt",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"017",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"018",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+
+{
+	"room":"024",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"027",
+	"roomclass":"Essensausgabe",
+	"classcode":"intern",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"G",
+	"accesscode":"3",
+
+	"tags":"küche, kuche, kueche, essensausgabe, ausgabe",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"030",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"031",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"034",
+	"roomclass":"Cafeteria",
+	"classcode":"food",
+	"position":"EG, Neubau,  Hauptgang",
+	"positioncode":"C",
+	"accesscode":"2b",
+	"info":"öffnungszeiten: ????",
+	"tags":"cafeteria, kafeteria, snack, kisosk, imbiss, essen, donuts, trinken, shop, kaffe, cafe",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+
+{
+	"room":"035",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"037",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"038",
+	"roomclass":"Küche",
+	"classcode":"intern",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"3",
+
+	"tags":"kueche, küche, koch",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"039",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"041",
+	"roomclass":"Lieferzugang Küche",
+	"classcode":"intern",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"3",
+
+	"tags":"kueche, küche, koch",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"042",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"043",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"044",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"045",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"048",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"049",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"050",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"051",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"052",
+	"roomclass":"Sekretariat",
+	"classcode":"office",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"C",
+	"accesscode":"4",
+
+	"tags":"seki, sekretariat, sekreteriat, sekrateriat, sekräteriat",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"053",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Neubau,  Nordflügel",
+	"positioncode":"C",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"055",
+	"roomclass":"Biologie",
+	"classcode":"bio",
+	"position":"EG, Neubau,  Treppenhalle",
+	"positioncode":"C",
+	"accesscode":"2a",
+
+	"tags":"bio, biologie",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"056",
+	"roomclass":"Biologie",
+	"classcode":"bio",
+	"position":"EG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"2a",
+
+	"tags":"bio, biologie",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"057",
+	"roomclass":"Biologie",
+	"classcode":"bio",
+	"position":"EG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"2a",
+
+	"tags":"bio, biologie",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"058",
+	"roomclass":"Biologie",
+	"classcode":"bio",
+	"position":"EG, Neubau,  Treppenhalle",
+	"positioncode":"N",
+	"accesscode":"2a",
+
+	"tags":"bio, biologie",
+	"building":"Neubau",
+	"level":"0"
+	
+},
+
+{
+	"room":"060",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"070",
+	"roomclass":"Musik",
+	"classcode":"mu",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"2a",
+
+	"tags":"musik",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"072",
+	"roomclass":"Behindertengerechtes WC",
+	"classcode":"accessiblewc",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"1",
+
+	"tags":"wc, rollstuhl, behinderten, behindert, handycap, rollstuhl wc",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"073",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"074",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"076",
+	"roomclass":"Musik",
+	"classcode":"mu",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"2a",
+
+	"tags":"musik",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"077",
+	"roomclass":"Musik",
+	"classcode":"mu",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"2a",
+
+	"tags":"musik",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"078",
+	"roomclass":"Lager Musik",
+	"classcode":"intern",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"3",
+
+	"tags":"musik, lager, lager musik",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"079",
+	"roomclass":"Musik Vorbereitung (Französisch, Englisch",
+	"classcode":"muv",
+	"position":"EG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"3",
+	"tags":"musik, english, französisch, vorbereitungszimmer, molberg, kubisch",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"080",
+	"roomclass":"BMZ, Objektfunk",
+	"classcode":"intern",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"M",
+	"accesscode":"3",
+	"info":"",
+	"tags":"bmz, objektfunk",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"081",
+	"roomclass":"Hausmeister",
+	"classcode":"fctymgr",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"M",
+	"accesscode":"3",
+	"info":"",
+	"tags":"hausmeister, hausi, haus, facility, facilitymanager, problem, reinigung, technik",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"082",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"M",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"083",
+	"roomclass":"Technik",
+	"classcode":"tech",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"I",
+	"accesscode":"2a",
+	"tags":"technik, tech, tenik, technic, tc",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"084",
+	"roomclass":"Technik",
+	"classcode":"tech",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"I",
+	"accesscode":"2a",
+	
+	"tags":"technik, tech, tenik, technic, tc",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"085",
+	"roomclass":"Technik Vorbereitung",
+	"classcode":"techv",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"I",
+	"accesscode":"4",
+	"tags":"tc, technik, tech, tenik, technic, vorbereitung",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"086",
+	"roomclass":"Schülerküche",
+	"classcode":"kitchen",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"2a",
+	"tags":"kueche, küche, schülerküche, kuche, schülerkuche, kochen",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"087",
+	"roomclass":"Biologie Vorbereitung",
+	"classcode":"biov",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"3",
+	"tags":"bio, biologie, vorbereitung, biovorbereitung, vorbereitungszimmer",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"088",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"089",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"090",
+	"roomclass":"Fachleiter Technik , Englisch",
+	"classcode":"support",
+	"position":"EG, Altbau,  Verbindungsgang",
+	"positioncode":"M",
+	"accesscode":"3",
+	"tags":"technik, tech, tenik, technic, tc, fachleiter, englisch, english, en, eng",
+	"building":"Altbau",
+	"level":"0"
+	
+},
+
+{
+	"room":"104",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"105",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"107",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"108",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"110",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"111",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"112",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+{
+	"room":"113",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"114",
+	"roomclass":"Behindertengerechtes WC",
+	"classcode":"accessiblewc",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, rollstuhl, behinderten, behindert, handycap, rollstuhl wc",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"115",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"116",
+	"roomclass":"WC Jungen",
+	"classcode":"wcm",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"117",
+	"roomclass":"WC Jungen",
+	"classcode":"wcmt",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"118",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"119",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"1. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"120",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Hauptgang",
+	"positioncode":"D",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"121",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Hauptgang",
+	"positioncode":"D",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"122",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Hauptgang",
+	"positioncode":"D",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"124",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"125",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"126",
+	"roomclass":"WC Personal",
+	"classcode":"wcp",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"3",
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"127",
+	"roomclass":"WC Jungen",
+	"classcode":"wcm",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"128",
+	"roomclass":"WC Jungen",
+	"classcode":"wcmt",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"129",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"130",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"132",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"133",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"134",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"136",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"137",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"138",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"139",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"141",
+	"roomclass":"Physik",
+	"classcode":"phy",
+	"position":"1. OG, Neubau,  Treppenhalle",
+	"positioncode":"C",
+	"accesscode":"2a",
+
+	"tags":"phy, physik, fisik, fysik, ph",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"142",
+	"roomclass":"Physik",
+	"classcode":"phy",
+	"position":"1. OG, Neubau,  Treppenhalle",
+	"positioncode":"C",
+	"accesscode":"2a",
+
+	"tags":"phy, physik, fisik, fysik, ph",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"143",
+	"roomclass":"Physik Vorbereitung",
+	"classcode":"phyv",
+	"position":"1. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"3",
+	"tags":"phy, physik, fisik, fysik, ph, vorbereitung, vb",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"144",
+	"roomclass":"Physik",
+	"classcode":"phy",
+	"position":"1. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"3",
+	"tags":"phy, physik, fisik, fysik, ph",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"145",
+	"roomclass":"Physik",
+	"classcode":"phy",
+	"position":"1. OG, Neubau,  Treppenhalle",
+	"positioncode":"N",
+	"accesscode":"2a",
+
+	"tags":"phy, physik, fisik, fysik, ph",
+	"building":"Neubau",
+	"level":"1"
+	
+},
+
+{
+	"room":"147",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau, Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"153",
+	"roomclass":"Kunst",
+	"classcode":"ku",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"2a",
+
+	"tags":"ku, kunst, art, malen, zeichnen, farbe",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"155",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"156",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"4",
+	
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"157",
+	"roomclass":"Behindertengerechtes WC",
+	"classcode":"accessiblewc",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"1",
+
+	"tags":"wc, rollstuhl, behinderten, behindert, handycap, rollstuhl wc",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"158",
+	"roomclass":"WC Jungen",
+	"classcode":"wcm",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"159",
+	"roomclass":"WC Jungen",
+	"classcode":"wcmt",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"161",
+	"roomclass":"Kunst",
+	"classcode":"ku",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"2a",
+
+	"tags":"ku, kunst, art, malen, zeichnen, farbe",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"162",
+	"roomclass":"Vorbereitung Kunst",
+	"classcode":"kuv",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"3",
+
+	"tags":"ku, kunst, vorbereitung, vorbereitung kunst,",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"165",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Altbau,  Hauptgebäude",
+	"positioncode":"J",
+	"accesscode":"1",
+
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"166",
+	"roomclass":"Inklusion I",
+	"classcode":"inklusion",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"M",
+	"accesscode":"3",
+
+	"tags":"inklusion, inclusion",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"167",
+	"roomclass":"Inklusion II",
+	"classcode":"inklusion",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"M",
+	"accesscode":"3",
+
+	"tags":"inklusion, inclusion",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"168",
+	"roomclass":"Lehrerzimmer",
+	"classcode":"lehrer",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"M",
+	"accesscode":"3",
+
+	"tags":"lehrer, lerer, lehrerzimmer, lererzimer, lererzimmer, teacher",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+{
+	"room":"169",
+	"roomclass":"Arztzimmer",
+	"classcode":"arzt",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"M",
+	"accesscode":"3",
+
+	"tags":"arzt, zahnarzt, medizin, unfall",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"170",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"I",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"171",
+	"roomclass":"Fachleiter Nawi, Sport, Gewi, Profil, Sprachen",
+	"classcode":"support",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"I",
+	"accesscode":"3",
+	"tags":"fachleiter, nawi, sport, gewi, profil, sprachen, vorbereitung",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"172",
+	"roomclass":"Fachleiter Nawi, Sport, Gewi, Profil, Sprachen",
+	"classcode":"support",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"I",
+	"accesscode":"3",
+	"tags":"fachleiter, nawi, sport, gewi, profil, sprachen, vorbereitung",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"173",
+	"roomclass":"Oberstufenberater",
+	"classcode":"support",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"I",
+	"accesscode":"3",
+	"tags":"oberstufenberater",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"174",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"H",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"175",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"H",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"176",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"H",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"177",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"1. OG, Altbau,  Verbindungsflügel",
+	"positioncode":"H",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"1"
+	
+},
+
+{
+	"room":"204",
+	"roomclass":"Vorbereitung",
+	"classcode":"v",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"3",
+	"tags":"vorbereitungszimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"205",
+	"roomclass":"Informatik",
+	"classcode":"inf",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"2a",
+	"tags":"informatik",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"207",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"208",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"210",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"211",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"E",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"212",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"213",
+	"roomclass":"Behindertengerechtes WC",
+	"classcode":"accessiblewc",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"wc, rollstuhl, behinderten, behindert, handycap, rollstuhl wc",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"214",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"215",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"216",
+	"roomclass":"WC Jungen",
+	"classcode":"wcm",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"217",
+	"roomclass":"WC Jungen",
+	"classcode":"wcmt",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"218",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"219",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"2. OG, Neubau,  Südflügel",
+	"positioncode":"F",
+	"accesscode":"1",
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"220",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"221",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"222",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"224",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"225",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"226",
+	"roomclass":"WC Personal",
+	"classcode":"wcp",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"3",
+	"tags":"",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"227",
+	"roomclass":"WC Jungen",
+	"classcode":"wcm",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"228",
+	"roomclass":"WC Jungen",
+	"classcode":"wcmt",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+	"tags":"wc, jungen, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"229",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"230",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"232",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"233",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"234",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"236",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"237",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"A",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"238",
+	"roomclass":"Informatik",
+	"classcode":"inf",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"2a",
+	"tags":"informatik",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"239",
+	"roomclass":"Vorbereitung",
+	"classcode":"v",
+	"position":"2. OG, Neubau,  Nordflügel",
+	"positioncode":"B",
+	"accesscode":"3",
+	"tags":"vorbereitungszimmer",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"241",
+	"roomclass":"Chemie",
+	"classcode":"ch",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"C",
+	"accesscode":"2a",
+	"tags":"chemie, experiment, schemie, shemie, kemie",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"242",
+	"roomclass":"Chemie",
+	"classcode":"ch",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"C",
+	"accesscode":"2a",
+	"tags":"chemie, experiment, schemie, shemie, kemie",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"243",
+	"roomclass":"Chemie",
+	"classcode":"ch",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"C",
+	"accesscode":"2a",
+	"tags":"chemie, experiment, schemie, shemie, kemie",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"244",
+	"roomclass":"Chemie",
+	"classcode":"ch",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"2a",
+	"tags":"chemie, experiment, schemie, shemie, kemie",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"245",
+	"roomclass":"Chemie",
+	"classcode":"ch",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"D",
+	"accesscode":"2a",
+	"tags":"chemie, experiment, schemie, shemie, kemie",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"246",
+	"roomclass":"Chemie",
+	"classcode":"ch",
+	"position":"2. OG, Neubau,  Treppenhalle",
+	"positioncode":"N",
+	"accesscode":"2a",
+	"tags":"chemie, experiment, schemie, shemie, kemie",
+	"building":"Neubau",
+	"level":"2"
+	
+},
+
+{
+	"room":"248",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"254",
+	"roomclass":"Informatik",
+	"classcode":"inf",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"2a",
+	"tags":"informatik",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"256",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"K",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"257",
+	"roomclass":"Behindertengerechtes WC",
+	"classcode":"accessiblewc",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+	"tags":"wc, rollstuhl, behinderten, behindert, handycap, rollstuhl wc",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"258",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfm",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"225",
+	"roomclass":"WC Mädchen",
+	"classcode":"wcfmt",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"1",
+	"tags":"wc, mädchen, girls, toilet, toilette, klo, pissoir, bad, tolette, waschraum",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"261",
+	"roomclass":"Informatik",
+	"classcode":"inf",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"2a",
+	"tags":"informatik",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"262",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"263",
+	"roomclass":"Unbekannt",
+	"classcode":"undefined",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"4",
+	"tags":"",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"264",
+	"roomclass":"Informatik Vorbereitung",
+	"classcode":"v",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"3",
+	"tags":"vorbereitungszimmer, inf, infv, info, informatik",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"265",
+	"roomclass":"Informatik",
+	"classcode":"inf",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"L",
+	"accesscode":"2a",
+	"tags":"informatik",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"266",
+	"roomclass":"Informatik",
+	"classcode":"inf",
+	"position":"2. OG, Altbau,  Hauptgebäude",
+	"positioncode":"J",
+	"accesscode":"2a",
+	"tags":"informatik",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"267",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"M",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"268",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"M",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"269",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"I",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"270",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"I",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"271",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"I",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"272",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"273",
+	"roomclass":"Klassenraum",
+	"classcode":"classroom",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"1",
+	"tags":"klassenraum, raum, classroom, klasse, zimmer, klassenzimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+},
+
+{
+	"room":"274",
+	"roomclass":"Vorbereitung",
+	"classcode":"v",
+	"position":"2. OG, Altbau,  Verbindungsgang",
+	"positioncode":"H",
+	"accesscode":"3",
+	"tags":"vorbereitungszimmer",
+	"building":"Altbau",
+	"level":"2"
+	
+}
+
+]

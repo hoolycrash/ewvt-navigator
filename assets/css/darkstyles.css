@@ -1,0 +1,57 @@
+@media (prefers-color-scheme: dark) {
+
+:root {
+/* Farbpalette */
+  --accent1: #000;
+  --accent2: #555;
+  --accent3: #313131;
+  --accent4: #161616; /*Hintergrund*/
+  --accent5: #232323;
+  --green: #278f54;
+  --lightgreen: #174930;
+  --blue: #4285F4;
+  --lightblue: #1e3763;
+  --red: #EA4335;
+  --lightred: #6f1c16;
+  --orange: #FB852A;
+  --lightorange: #6f3d17;
+  --yellow: #FBBC04;
+  --lightyellow: #5b4609;
+  --pink: #F439A0;
+  --lightpink: #650036;
+  
+  --borderradius: 6px;
+}
+
+html, body, .centerbox, td, input, h2, button, a {
+	color: #fff;
+}
+
+.noninvert {
+	filter: invert(0) !important;
+	-webkit-filter: invert(0) !important;
+}
+
+
+.icon, .bigicon  {
+	filter: invert(1) saturate(0);
+    
+}
+
+.map {
+	filter: invert(1) hue-rotate(240deg);
+}
+
+
+.leaflet-marker-icon {
+	filter: invert(1) hue-rotate(130deg);
+}
+
+.box, input, textarea {
+	box-shadow: none;
+}
+
+.listelement {
+	border-color: #333333;
+}
+}

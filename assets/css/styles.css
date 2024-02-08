@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+/* Farbpalette */
+	--accent1: #000;
+	--accent2: #555;
+	--accent3: #e4e3e8;
+	--accent4: #f2f1f6; /*Hintergrund*/
+	--accent5: #ffffff;
+	--green: #278f54;
+	--lightgreen: #9ae2bf;
+	--blue: #4285F4;
+	--lightblue: #bfcde5;
+	--red: #EA4335;
+	--lightred: #ffb1ab;
+	--orange: #FB852A;
+	--lightorange: #ffcea8;
+	--yellow: #FBBC04;
+	--lightyellow: #f4d16d;
+	--pink: #F439A0;
+	--lightpink: #f8b9db;
+
+	--borderradius: 6px;
+}
+
+html,  body {
+	font-family: 'Roboto', sans-serif;
+	user-drag: none;
+	-webkit-user-drag: none;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	background-color: var(--accent4);
+
+}
+
+
+html {
+	overflow-y: scroll;
+}
+
+.mobileonly {
+	display: none;
+}
+
+/* LAYOUT */
+.container {
+	width: calc(100% - 8px);
+	max-width: 750px;
+	padding-top: 30px;
+	text-align: left;
+
+}
+
+.map {
+	width: calc(100% - 8px);
+	height: 410px;
+	margin: 4px;
+	border-radius: var(--borderradius);
+}
+
+
+
+
+/* GRUNDLEGENDE ELEMENTE */
+/* Schrift */
+
+h1, h2, h3, h4, h5, h6 {
+	margin-left: 4px;
+}
+
+h2 {
+	size: 30px;
+	line-height: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: var(--accent1);
+	display: contents;
+}
+
+code {
+	color: var(--red);
+}
+
+.numberplate {
+	background-color: var(--accent1);
+	color: var(--accent3);
+	border-radius: var(--borderradius);
+}
+
+/* Tabelle */
+.tablewide {
+	width: 100%;
+	text-align: right;
+}
+
+td, th {
+	border: none;
+	padding-right: 10px;
+}
+
+.tdwide {
+	width: 100%;
+}
+
+/* Eingabefeld */
+input, textarea, select {
+	width: calc(100% - 8px);
+	height: 39px;
+	margin: 4px;
+	background-color: var(--accent3);
+	transition: 0.3s; 
+	font-size: 17px;
+	border: none;
+	-webkit-background-clip: padding-box; /* for Safari */
+	background-clip: padding-box;
+	border-radius: var(--borderradius);
+	box-shadow: 0px 0px 10px var(--accent3);
+}
+
+input[type="search"] {
+	background: transparent url(".././icons/search.svg") no-repeat 200px;
+	background-position: left;
+	background-size: 30px;
+	background-color: var(--accent3);
+	padding-left: 40px;
+	padding-right: 13px;
+
+
+}
+
+/* Slider Eingabe */
+.slider {
+	-webkit-appearance: none;
+	width: 100%;
+	height: 10px;
+	background: var(--accent3);
+	outline: none;
+  
+}
+
+
+.slider::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 40px;
+	height: 40px;
+	background: var(--blue);
+	border-radius: 200px;
+}
+
+.slider::-moz-range-thumb {
+	width: 25px;
+	height: 25px;
+	background: var(--blue);
+
+}
+
+::placeholder {
+	color: #88929e;
+	opacity: 1
+}
+
+::-ms-input-placeholder {
+	color: #88929e;
+}
+
+/* Freitexteingabefeld */
+textarea {
+	height: 200px;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+input:focus {
+	outline: none;
+}
+
+textarea:focus {
+	outline: none;
+}
+
+details {
+	text-align: left;
+}
+
+select:invalid { 
+	color: grey; 
+}
+
+.board {
+	font-size: 70px;
+}
+
+/* Button */
+button {
+	height: 36px;
+	width: 100%;
+	max-width: 200px;
+	border: none;
+	background: no-repeat 10px var(--accent3);
+	background-size: 27px;
+	padding-left: 25px;
+	margin-bottom: 5px;
+	border-radius: 30px;
+}
+
+/* Button mit Priorität (Hervorgehoben) */
+.primary {
+	background-color: var(--blue);
+	color: var(--accent5);
+}
+
+/* Icons für die Buttons */
+.bug {
+	background-image: url(".././icons/bug.svg");
+}
+
+.home {
+	background-image: url(".././icons/home.svg");
+}
+
+.back {
+	background-image: url(".././icons/back.svg");
+}
+
+.send {
+	background-image: url(".././icons/send.svg");
+}
+
+.reset {
+	background-image: url(".././icons/delete.svg");
+}
+
+.cancel {
+	background-image: url(".././icons/cross.svg");
+}
+
+.icon {
+	height: 35px;
+	padding-right: 5px;
+	
+}
+
+.bigicon {
+	height: 50px;
+}
+
+.natural {
+	filter: invert(0%) sepia(0%)  hue-rotate(0deg);
+	
+}
+
+.graphic {
+	width: 70%;
+	max-width: 150px;
+	image-rendering: pixelated;
+}
+
+/* Listenbox */
+
+.flexbox {
+	display: flex;
+}
+
+.box {
+	width: 100%;
+	margin: 4px;
+	padding: 4px;
+	border-radius: var(--borderradius);
+	background-color: var(--accent5);
+	transition: ease-out 0.2s;
+	box-shadow: 0px 0px 10px var(--accent3);
+}
+
+.listelement {
+	transition: ease-out 0.2s;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+	min-height: 50px;
+	border-color: #dbdbdb;
+	margin-bottom: 7px;
+	
+}
+.box .listelement:last-child {
+	border: none;
+	margin-bottom: 0px;
+}
+
+
+.buttonbox:hover {
+	transition: ease-out 0.2s;
+	opacity: 0.8 !important;
+}
+
+.centerbox {
+	text-align: center;
+	animation: pop 1s forwards;
+	animation-timing-function: ease;
+	opacity: 0;
+
+}
+
+.text {
+	margin: 4px;
+	text-align: center;
+}
+
+.indicator {
+	border-radius: var(--borderradius);
+}
+
+/* Zuordnung einzelner Farben zu Raumkategorien */
+.red, .arzt, .intern {
+	background-color: var(--lightred);
+}
+
+.orange, .sport, .phy, .phyv, .tech, .techv, .konferenz {
+	background-color: var(--lightorange);
+}
+
+.yellow, .ch, .chv, .food, .mensa, .support{
+	background-color: var(--lightyellow);
+}
+
+.green, .bio, .biov, .mu, .muv, .fctymgr, .accessiblewc {
+	background-color: var(--lightgreen);
+}
+
+.blue, .bibo, .room, .wcm, .wcmt, .wcp, .inf, .infv {
+	background-color: var(--lightblue);
+}
+.pink, .office, .music, .musicv, .wcfm, .wcfmt, .kitchen, .ku, .kuv {
+	background-color: var(--lightpink);
+}
+
+.grey, .undefined, .classroom, .v {
+	background-color: var(--accent3);
+}
+
+/* Animation auf Startseite */
+.button1 {
+	animation-delay:0s;
+}
+
+.button2 {
+	animation-delay: 0.1s;
+}
+
+.button3 {
+	animation-delay: 0.2s;
+}
+
+.button4 {
+	animation-delay: 0.3s;
+}
+
+.button5 {
+	animation-delay: 0.4s;
+}
+
+/* Animation */
+@keyframes pop {
+	0% {
+		opacity: 0;
+		
+	}
+	
+	1% {
+		opacity: 0;
+	}
+		
+	100% {
+		opacity: 1;
+	}
+}
