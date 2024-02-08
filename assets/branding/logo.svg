@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="biglogo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo.svg"
    id="svg39"
    version="1.1"
    fill="none"
    viewBox="0 0 213 66"
    height="66"
-   width="213">
+   width="213"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata43">
     <rdf:RDF>
@@ -29,14 +29,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg39"
      inkscape:window-maximized="1"
-     inkscape:window-y="22"
+     inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="18.814279"
-     inkscape:cx="182.00955"
+     inkscape:cy="30.679203"
+     inkscape:cx="181.99779"
      inkscape:zoom="13.478186"
      showgrid="false"
      id="namedview41"
-     inkscape:window-height="847"
+     inkscape:window-height="829"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -45,7 +45,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <path
      id="path2"
      fill="#02932D"
@@ -120,15 +123,6 @@
      id="path26"
      fill="#444444"
      d="M109.46 52H108.08V41.26H109.76L114.98 49.615H115.04L114.98 47.545V41.26H116.36V52H114.92L109.46 43.24H109.4L109.46 45.31V52ZM122.424 42.955L120.669 47.8H124.239L122.484 42.955H122.424ZM119.154 52H117.624L121.674 41.26H123.234L127.284 52H125.754L124.719 49.09H120.204L119.154 52ZM131.809 52H130.369L126.589 41.26H128.119L131.059 49.975H131.119L134.179 41.26H135.709L131.809 52ZM138.347 52H136.967V41.26H138.347V52ZM150.7 47.065C150.7 48.565 150.255 49.76 149.365 50.65C148.365 51.71 147.05 52.24 145.42 52.24C143.86 52.24 142.54 51.7 141.46 50.62C140.38 49.54 139.84 48.21 139.84 46.63C139.84 45.05 140.38 43.72 141.46 42.64C142.54 41.56 143.86 41.02 145.42 41.02C146.21 41.02 146.955 41.16 147.655 41.44C148.355 41.72 148.93 42.115 149.38 42.625L148.39 43.615C148.06 43.215 147.63 42.905 147.1 42.685C146.58 42.455 146.02 42.34 145.42 42.34C144.25 42.34 143.26 42.745 142.45 43.555C141.65 44.375 141.25 45.4 141.25 46.63C141.25 47.86 141.65 48.885 142.45 49.705C143.26 50.515 144.25 50.92 145.42 50.92C146.49 50.92 147.38 50.62 148.09 50.02C148.8 49.42 149.21 48.595 149.32 47.545H145.42V46.255H150.625C150.675 46.535 150.7 46.805 150.7 47.065ZM156.13 42.955L154.375 47.8H157.945L156.19 42.955H156.13ZM152.86 52H151.33L155.38 41.26H156.94L160.99 52H159.46L158.425 49.09H153.91L152.86 52ZM164.928 42.58V52H163.548V42.58H160.548V41.26H167.928V42.58H164.928ZM179.43 46.63C179.43 48.22 178.9 49.55 177.84 50.62C176.77 51.7 175.46 52.24 173.91 52.24C172.35 52.24 171.04 51.7 169.98 50.62C168.92 49.55 168.39 48.22 168.39 46.63C168.39 45.04 168.92 43.71 169.98 42.64C171.04 41.56 172.35 41.02 173.91 41.02C175.47 41.02 176.78 41.565 177.84 42.655C178.9 43.725 179.43 45.05 179.43 46.63ZM169.8 46.63C169.8 47.87 170.19 48.895 170.97 49.705C171.76 50.515 172.74 50.92 173.91 50.92C175.08 50.92 176.055 50.515 176.835 49.705C177.625 48.905 178.02 47.88 178.02 46.63C178.02 45.38 177.625 44.355 176.835 43.555C176.055 42.745 175.08 42.34 173.91 42.34C172.74 42.34 171.76 42.745 170.97 43.555C170.19 44.365 169.8 45.39 169.8 46.63ZM182.439 42.58V46.36H184.659C185.219 46.36 185.694 46.18 186.084 45.82C186.474 45.45 186.669 44.995 186.669 44.455C186.669 43.955 186.484 43.52 186.114 43.15C185.754 42.77 185.299 42.58 184.749 42.58H182.439ZM182.439 52H181.059V41.26H184.719C185.649 41.26 186.439 41.57 187.089 42.19C187.749 42.8 188.079 43.555 188.079 44.455C188.079 45.195 187.834 45.855 187.344 46.435C186.864 47.005 186.254 47.37 185.514 47.53L185.484 47.575L188.499 51.94V52H186.864L183.969 47.65H182.439V52Z" />
-  <rect
-     style="fill:url(#paint0_linear_14_204)"
-     id="rect28"
-     fill="url(#paint0_linear_14_204)"
-     rx="9.5"
-     height="19"
-     width="41"
-     y="13"
-     x="172" />
   <defs
      id="defs37">
     <linearGradient
@@ -149,15 +143,4 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <text
-     id="text870"
-     y="26.016361"
-     x="175.396"
-     style="font-style:normal;font-weight:normal;font-size:10.6639px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266599"
-     xml:space="preserve"><tspan
-       style="fill:#ffffff;stroke-width:0.266599"
-       y="26.016361"
-       x="175.396"
-       id="tspan868"
-       sodipodi:role="line">ALPHA</tspan></text>
 </svg>
