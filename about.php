@@ -25,8 +25,13 @@
 		<div class="flexbox">
 			<div class="box">
 				<div class="listelement">
-					<table><tr><td><img src="./assets/branding/applogo.png" class="icon backdropicon noninvert"></td><td><b>EWvT Navigator</b><br>Diese Anwendung entsteht im Rahmen der Komplexen Leistung von Felix Nietzold.</td></tr></table>
-					
+					<table><tr><td><img src="./assets/branding/applogo.png" class="icon backdropicon noninvert"></td><td><b>EWvT Navigator</b><br>Diese Anwendung entstand im Rahmen der Komplexen Leistung von Felix Nietzold.</td></tr></table>
+				</div>
+				
+				<div class="listelement">
+					<a href="https://github.com/hoolycrash/ewvt-navigator">
+						<table><tr><td><img src="./assets/icons/github.png" class="icon backdropicon"></td><td>Projekt&nbsp;auf&nbsp;GitHub&nbsp;ansehen.</td><td  class="tablewide"><img src="./assets/icons/arrow.svg" class="icon backdropicon"></td></tr></table>
+					</a>
 				</div>
 			</div>
 		</div>
